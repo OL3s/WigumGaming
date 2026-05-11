@@ -1,0 +1,10 @@
+# Separate repositories backed up elsewhere
+BloggStorage/
+Godot/
+Webpages/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
