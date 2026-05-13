@@ -62,6 +62,10 @@ WigumGaming/
 Folder use:
 
 - `brand/`: studio identity, naming, tone, logos, colors, and shared visual direction.
-- `business/`: company planning, release strategy, store drafts, pricing notes, and business decisions.
+- `business/`: company planning, release strategy, store drafts, pricing notes, infrastructure, and business decisions.
 - `images/`: shared company-level images that do not belong to one specific game repository.
 - `FOCUSPOINT.md`: what to focus on next after the current work session.
+
+Current business notes:
+
+- `business/hosting-and-domain.md`: website hosting and domain provider notes.
