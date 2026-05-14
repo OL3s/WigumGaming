@@ -12,6 +12,7 @@ Build out the company-level structure for Wigum Gaming without duplicating conte
 - Add only company-level material here: brand, business, shared images, planning, and store/release notes.
 - Keep active game implementation details inside the relevant Godot repositories.
 - Keep public website content and dev blog posts inside `https://github.com/OL3s/Blogg-Storage`.
+- For future website language-selector work, read `../Blogg-Storage/FOCUSPOINT.md`; it documents the two-repo setup and the planned localized `.no.md` / `.no.json` fallback process for `Blogg-Storage` and `WigumGaming-Homepage`.
 - When Mob Gladiator reaches new major milestones, update `ROADMAP.md` with what can transfer into Multiplayer Arena and the roguelite project.
 
 ## Current Stage
